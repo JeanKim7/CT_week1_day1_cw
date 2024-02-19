@@ -16,3 +16,6 @@ This is my very first repository with the Kekambas-142 Cohort!
 6. Create a new branch: `git checkout -b <new_branch_name>`
     - Use `git checkout <braanch_name>` to switch branches
     - use `git branch` to get a list of existing branches
+7. ADDED SOME STUFF
+asdfasdf
+asdfasdf
